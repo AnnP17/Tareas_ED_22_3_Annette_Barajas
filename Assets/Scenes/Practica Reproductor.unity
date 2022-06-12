@@ -264,6 +264,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85455fe143bf98e4e9b373a3aa9c6245, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  audioS: {fileID: 957605483}
+  ListaAudio:
+  - {fileID: 8300000, guid: f796e2153cde659419ff0d281583ff33, type: 3}
+  - {fileID: 8300000, guid: 10af11626dc9bdf4ba6820c90c59c559, type: 3}
+  - {fileID: 8300000, guid: ac25109e4c473174e9ad4e62d2cdec7f, type: 3}
+  indice: 0
 --- !u!1 &1687339524
 GameObject:
   m_ObjectHideFlags: 0

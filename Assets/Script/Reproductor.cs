@@ -26,9 +26,5 @@ public class Reproductor : MonoBehaviour
         }
         
         audioS.clip = ListaAudio[indice];
-
-        console.log(AudioSource({0})).length;
-        console.log(AudioSource({1})).length;
-        console.log(AudioSource({2})).length;
     }
 }
